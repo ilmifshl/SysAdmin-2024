@@ -1,7 +1,7 @@
 # Instalasi Debian
 
 1. Install file .iso dari Debian [di sini](https://www.debian.org/download).
-2. Install VirtualBox [di sini](https://www.virtualbox.org/wiki/Downloads) dan jalankan setup-nya.
+2. Install VirtualBox [di sini](https://www.virtualbox.org/wiki/Downloads) dan jalankan _setup_-nya.
 3. Buka VirtualBox, berikut adalah tampilannya.
    ![alt](./assets/1.png)
    Kemudian, klik "Add".
@@ -100,3 +100,4 @@
     ![alt](./assets/47.png)
 45. Tunggu instalasi software hingga selesai.
     ![alt](./assets/48.png)
+46. Debian telah diinstal
